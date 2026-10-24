@@ -19,3 +19,31 @@ Au temps du cinéma muet, des bruiteurs et des musiciens accompagnaient les film
 Ce jeu vient de Tadaa !, le magazine de la Philharmonie de Paris destiné aux 4-10 ans.
 Fermez les yeux et tendez l'oreille : tonnerre, crissement de pneus, clapotis de l'eau ou hululement d'une chouette… À chaque son, retrouvez le décor qui lui correspond : la ville, la campagne, la mer ou la ferme. Une fois la partie terminée, réécoutez chaque paysage sonore en entier. Jeu réalisé par la Philharmonie de Paris en partenariat avec BayaM.
 <br>
+
+
+## Stop Motion Studio
+<br>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/9d/4c/9a9d4cc0-e0f0-a25b-a094-b9f17b07f1d6/Placeholder.mill/1200x630wa.jpg" alt="Illustration" width="300">
+<br>
+&rarr; <a href="https://apps.apple.com/app/id441651297">Accéder au site</a>
+<br>
+Application pour tablette et smartphone. Avec des Lego, de la pâte à modeler, des dessins ou des objets du quotidien, réalisez votre propre film d'animation image par image. Ajoutez ensuite votre voix, des effets de fond vert et partagez votre création. Gratuite, sans publicité, avec des fonctions avancées payantes. Tout public.
+<br>
+
+## Pixar in a Box (en anglais)
+<br>
+<img src="https://cdn.kastatic.org/ka-perseus-images/ff01460fb6e2264d5ed117712055e458dc67d26c.png" alt="Illustration" width="300">
+<br>
+&rarr; <a href="https://www.khanacademy.org/computing/pixar">Accéder au site</a>
+<br>
+Cours en ligne gratuit, en anglais. Comment travaillent les artistes de Pixar ? Narration, conception des personnages, animation, effets spéciaux, caméras virtuelles : chaque métier du studio est présenté en vidéo, avec des exercices interactifs pour animer une balle qui rebondit, construire une foule de robots ou faire exploser des feux d'artifice. Conçu par Pixar et Khan Academy. À partir de 10 ans.
+<br>
+
+## L'Atelier cinéma
+<br>
+<img src="https://www.cnc.fr/documents/36995/98172/Atelier+Cin%C3%A9ma.jpg/13ce35ec-b560-0bf5-48a0-6190ab77b9cd?t=1539274178518&thumb=cncThumbImagePrincipale" alt="Illustration" width="300">
+<br>
+&rarr; <a href="https://www.cnc.fr/cinema/education-a-l-image/l-atelier-cinema">Accéder au site</a>
+<br>
+Application gratuite pour tablette (iPad et Android). Autour du film d'animation Azur et Asmar de Michel Ocelot, l'enfant découvre les étapes de fabrication d'un film (scénario, cadrage, équipe de tournage, tournage, montage) et se glisse dans la peau des différents métiers du cinéma à travers dix activités ludiques, jusqu'à réaliser son propre tournage guidé. Conçue par le CNC. Pour les 8-12 ans.
+<br>
