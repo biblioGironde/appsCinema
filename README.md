@@ -47,3 +47,8 @@ Cours en ligne gratuit, en anglais. Comment travaillent les artistes de Pixar ? 
 <br>
 Application gratuite pour tablette (iPad et Android). Autour du film d'animation Azur et Asmar de Michel Ocelot, l'enfant découvre les étapes de fabrication d'un film (scénario, cadrage, équipe de tournage, tournage, montage) et se glisse dans la peau des différents métiers du cinéma à travers dix activités ludiques, jusqu'à réaliser son propre tournage guidé. Conçue par le CNC. Pour les 8-12 ans.
 <br>
+
+## Licences
+
+- **Textes de présentation** : [Licence Ouverte Etalab 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/), réutilisation libre, y compris commerciale, avec mention de la source « biblio.gironde ».
+- Les applications et sites présentés, ainsi que leurs images, appartiennent à leurs éditeurs.
